@@ -11,3 +11,5 @@ Extra Hardware Needed:
 - 6x SHCS M3x12mm for the retrofit top part mount. 
 
 More instructions will be added at later point.
+
+![PIC](variants.png)
