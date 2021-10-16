@@ -1,15 +1,17 @@
 
 Trident Z Anti Wobbler
 
-Two version:
+Two versions:
 - Integrated - the top part is integrated in to the Z carriage.
-- Retrofit - if you don't want to reprint the Z carriage and just want to try it out, but 10mm less Z travle.
+- Retrofit - if you don't want to reprint the Z carriage and just want to try it out, but 10mm less Z travel.
 
 Extra Hardware Needed:
-- 9x 4mm ballbering balls, same as in a 608 bearing.
+- 9x 4mm ball bearings balls, same as in a 608 bearing.
 - 30x 3x6mm neodym magnets.
-- 6x SHCS M3x12mm for the retrofit top part mount. 
+- 6x SHCS M3x12mm for the retrofit top part mount.
 
-More instructions will be added at later point.
+If you don't plan to use backlash T8 nut, you won't need to print Z_Bed_Left and Z_Bed_Right, it has minimal cut out 
+to make space for the backlash spring.
+
 
 ![PIC](variants.png)
