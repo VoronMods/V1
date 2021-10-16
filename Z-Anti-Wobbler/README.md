@@ -3,7 +3,7 @@ Trident Z Anti Wobbler
 
 Two versions:
 - Integrated - the top part is integrated in to the Z carriage.
-- Retrofit - if you don't want to reprint the Z carriage and just want to try it out, but 10mm less Z travel.
+- Retrofit - if you don't want to reprint the Z carriage and just want to try it out, but 10mm less Z travel. (I didn't test this version, only the integrated)
 
 Extra Hardware Needed:
 - 9x 4mm ball bearings balls, same as in a 608 bearing.
