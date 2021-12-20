@@ -8,3 +8,5 @@ Quick Release Panel Clips
 4x Lever  
 
 Make sure the heat inserts are flush with the skirt.
+
+![PIC](Images/PIC1.jpg)
