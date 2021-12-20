@@ -9,4 +9,4 @@ Quick Release Panel Clips
 
 Make sure the heat inserts are flush with the skirt.
 
-![PIC](Images/PIC1.jpg)
+![PIC](Images/PIC1.png)
