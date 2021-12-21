@@ -6,6 +6,7 @@ Quick Release Panel Clips
 2x Front Clips  
 4x Spacers 
 4x Lever  
+Use the original hinges or two extra front clips.
 
 Make sure the heat inserts are flush with the skirt.
 
