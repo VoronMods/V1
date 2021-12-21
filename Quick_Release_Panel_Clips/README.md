@@ -1,6 +1,6 @@
 Quick Release Panel Clips  
 
-4x M3x12mm 
+4x M3x12mm (M3x16mm should also fit)
 
 2x Side Cklips 
 2x Front Clips  
