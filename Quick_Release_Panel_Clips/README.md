@@ -18,7 +18,7 @@ My clips are PLA, can be printed with any filament, how the spacer and lever fit
 To align the clip with the wing nut before sticking the clip on the panel, make sure all is aligned.
 Insert an allan key or something similar between the panel and skirt, align the clip and stick to the panel.
 
-![PIC](Images/PIC5.png)
+![PIC](Images/PIC6.png)
 ![PIC](Images/PIC1.png)
 ![PIC](Images/PIC3.png)
 ![PIC](Images/PIC2.png)
