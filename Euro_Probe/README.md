@@ -18,3 +18,6 @@ Installing magnets:
 ![PIC](Images/PIC3.png)
 
 Omron Adapter for Afterburner/Stealthburner designed from scratch to fit the 8mm magnets and other changes.
+
+Original is here
+https://github.com/nionio6915/Euclid_Probe/
