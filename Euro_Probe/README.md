@@ -19,8 +19,9 @@ Installing magnets:
 - 4x M2 nuts
 
 
-![PIC](Images/PIC2.png)
-![PIC](Images/PIC3.png)
+![PIC](Images/PIC_2.png)
+![PIC](Images/PIC_3.png)
+![PIC](Images/PIC4.png)
 
 Omron Adapter for Afterburner/Stealthburner designed from scratch to fit the 8mm magnets and other changes.
 
