@@ -1,4 +1,4 @@
-Euro Probe
+EuroProbe
 
 This is the Euclid Probe moded for EU as the original magnets and hardware are non standard and not obtainable in EU, just in US.
 
