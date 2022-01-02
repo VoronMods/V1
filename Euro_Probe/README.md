@@ -18,6 +18,8 @@ Installing magnets:
 - 4x M2x6mm FHCS 
 - 4x M2 nuts
 
+If you want to integrate the probe in to the carriage, let me know. I will upload after is done.
+
 
 ![PIC](Images/PIC_2.png)
 ![PIC](Images/PIC_3.png)
