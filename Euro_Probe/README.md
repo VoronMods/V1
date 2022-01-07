@@ -12,7 +12,7 @@ Mounting the top PCB to Afterburner adapter:
 
 or
 
-- 2x M3 BHCS with modded head to 4.6 OD, self taping or heat inserts (all adapters in STL)
+- 2x [M3 BHCS with modded head to 4.6 OD](https://github.com/VoronMods/V1/blob/main/Euro_Probe/Images/PIC_5.png), self taping or heat inserts (all adapters in STL) 
 
 Installing magnets:
 - 4x M2x6mm FHCS 
