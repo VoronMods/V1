@@ -24,6 +24,7 @@ If you want to integrate the probe in to the carriage, let me know. I will uploa
 ![PIC](Images/PIC_2.png)
 ![PIC](Images/PIC_3.png)
 ![PIC](Images/PIC4.png)
+![PIC](Images/PIC_5.png)
 
 Omron Adapter for Afterburner/Stealthburner designed from scratch to fit the 8mm magnets and other changes.
 
