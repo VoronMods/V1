@@ -8,7 +8,11 @@ All STL's have correct print orientation and no need for supports.
 Trident_8mm_ProbeDock.stl needs supports, will change it later and add build in support.
 
 Mounting the top PCB to Afterburner adapter:
-- 2x M2x10mm BHCS self taping or M2 heat inserts 
+- 2x M2x10mm BHCS self taping 
+
+or
+
+- 2x M2x8 and 2xM2 heat inserts (5mm OD and 4.5mm lenght)
 
 or
 
