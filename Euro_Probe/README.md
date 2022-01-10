@@ -21,8 +21,8 @@ or
 ![PIC](Images/PIC_6.png)
 
 Installing magnets:
-- 4x M2x6mm FHCS 
-- 4x M2 nuts
+- 4x M2x5mm FHCS 
+- 4x M2 nuts, you can also just screw direct in to the PCB. There is enough friction to hold it secure as PCS is glass fiber.
 
 If you want to integrate the probe in to the carriage, let me know. I will upload after is done.
 
