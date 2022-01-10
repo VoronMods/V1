@@ -16,7 +16,9 @@ or
 
 or
 
-- 2x [M3 BHCS with modded head to 4.6 OD](https://github.com/VoronMods/V1/blob/main/Euro_Probe/Images/PIC_5.png), self taping or heat inserts (all adapters in STL) 
+- 2x [M3 BHCS with modded head to 4.6 OD](https://github.com/VoronMods/V1/blob/main/Euro_Probe/Images/PIC_5.png), self taping or heat inserts (all adapters in STL)
+
+![PIC](Images/PIC_6.png)
 
 Installing magnets:
 - 4x M2x6mm FHCS 
