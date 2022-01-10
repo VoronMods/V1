@@ -26,7 +26,7 @@ Installing magnets:
 
 ![PIC](Images/PIC_7.png)
 
-If you want to integrate the probe in to the carriage, let me know. I will upload after is done.
+If you want to integrate the probe in to the new carriage, let me know. I will upload after is done.
 
 
 ![PIC](Images/PIC_2.png)
