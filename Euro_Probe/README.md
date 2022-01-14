@@ -20,6 +20,10 @@ or
 
 ![PIC](Images/PIC_6.png)
 
+Added dock for the Klicky mount. Not tested yet.
+
+![PIC](Images/PIC_8.png)
+
 Installing magnets:
 - 4x M2x5mm FHCS 
 - 4x M2 nuts, you can also just screw direct in to the PCB. There is enough friction to hold it secure as PCS is glass fiber.
