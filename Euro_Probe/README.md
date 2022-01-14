@@ -21,6 +21,9 @@ or
 ![PIC](Images/PIC_6.png)
 
 Added dock for the Klicky mount. Not tested yet.
+Use the mount STL in picture, this is the only mount taht works as you can adust the hight, with the other Klicy mounts the is not anough clearance between the docj and the toolhead. need to work on it.
+Klicky repo:
+https://github.com/jlas1/Klicky-Probe
 
 ![PIC](Images/PIC_8.png)
 
