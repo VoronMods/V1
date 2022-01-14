@@ -31,6 +31,11 @@ Added dock for the Klicky mount. Not tested yet.
 Use the mount STL in picture, this is the only mount that works as you can adjust the height.
 With the other Klicky mounts, there is not enough clearance between the dock and the tool head, still need to work on it.
 
+To install the dock you will need:
+
+- 1x M3x8mm
+- 1x M3x6mm
+
 Klicky repo:
 https://github.com/jlas1/Klicky-Probe
 
