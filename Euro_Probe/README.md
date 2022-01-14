@@ -20,6 +20,13 @@ or
 
 ![PIC](Images/PIC_6.png)
 
+
+Installing magnets:
+- 4x M2x5mm FHCS 
+- 4x M2 nuts, you can also just screw direct in to the PCB. There is enough friction to hold it secure as PCS is glass fiber.
+
+![PIC](Images/PIC_7.png)
+
 Added dock for the Klicky mount. Not tested yet.
 Use the mount STL in picture, this is the only mount that works as you can adjust the height.
 With the other Klicky mounts, there is not enough clearance between the dock and the tool head, still need to work on it.
@@ -28,12 +35,6 @@ Klicky repo:
 https://github.com/jlas1/Klicky-Probe
 
 ![PIC](Images/PIC_8.png)
-
-Installing magnets:
-- 4x M2x5mm FHCS 
-- 4x M2 nuts, you can also just screw direct in to the PCB. There is enough friction to hold it secure as PCS is glass fiber.
-
-![PIC](Images/PIC_7.png)
 
 If you want to integrate the probe in to the new carriage, let me know. I will upload after is done.
 
