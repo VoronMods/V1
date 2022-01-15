@@ -34,15 +34,15 @@ With the other Klicky mounts, there is not enough clearance, therefore you need 
 
 To install the dock you will need:
 
-- 2x M3x8mm
+- 2x M3x8-10mm
 
 - or
  
-- 2x M3x12mm if you use the 5 mm spacer
+- 2x M3x12-18mm if you use the 5 mm spacer
 
 - or
  
-- 2x M3x10mm if you use the 3 mm spacer
+- 2x M3x10-16mm if you use the 3 mm spacer
 
 Klicky repo:
 https://github.com/jlas1/Klicky-Probe
