@@ -38,11 +38,11 @@ To install the dock you will need:
 
 - or
  
-- 2x M3x12-18mm if you use the 5 mm spacer
+- 2x M3x16-18mm if you use the 5 mm spacer
 
 - or
  
-- 2x M3x10-16mm if you use the 3 mm spacer
+- 2x M3x12-16mm if you use the 3 mm spacer
 
 Klicky repo:
 https://github.com/jlas1/Klicky-Probe
