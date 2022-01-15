@@ -28,17 +28,21 @@ Installing magnets:
 ![PIC](Images/PIC_7.png)
 
 Added dock for the Klicky mount. Not tested yet.
-Use the mount STL in picture, this is the only mount that works as you can adjust the height.
-With the other Klicky mounts, there is not enough clearance between the dock and the tool head, still need to work on it.
+For the mount STL in picture, you don't need the red spacer.
+With the other Klicky mounts, there is not enough clearance, therefore you need to use a 5 mm spacer (red in the pic)
 
 To install the dock you will need:
 
-- 1x M3x8mm
-- 1x M3x6mm
+- 2x M3x8mm
+
+- or
+ 
+- 2x M3x12mm if you use the 5mm spacer
 
 Klicky repo:
 https://github.com/jlas1/Klicky-Probe
 
+![PIC](Images/PIC_9.png)
 ![PIC](Images/PIC_8.png)
 
 If you want to integrate the probe in to the new carriage, let me know. I will upload after is done.
