@@ -1,4 +1,5 @@
 # EuroProbe
+# I need to redesign the Omron adapters and move the probe mounting holes 1mm to make space for the JST connector, now you have to cut one of the JST walls.
 
 This is the Euclid Probe moded for EU as the original magnets and hardware are non standard and not obtainable in EU, just in US.
 
