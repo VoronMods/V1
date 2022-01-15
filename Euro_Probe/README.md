@@ -47,7 +47,7 @@ To install the dock you will need:
 Klicky repo:
 https://github.com/jlas1/Klicky-Probe
 
-![PIC](Images/PIC_10.png)
+![PIC](Images/PIC_11.png)
 ![PIC](Images/PIC_8.png)
 
 If you want to integrate the probe in to the new carriage, let me know. I will upload after is done.
