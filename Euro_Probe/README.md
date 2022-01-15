@@ -1,12 +1,15 @@
-EuroProbe
+# EuroProbe
 
 This is the Euclid Probe moded for EU as the original magnets and hardware are non standard and not obtainable in EU, just in US.
 
 Changed are the magnets to 8mm South and North pole.
 
+#real-cool-heading
+
 All STL's have correct print orientation and no need for supports. 
 Trident_8mm_ProbeDock.stl needs supports, will change it later and add build in support.
 
+[Mounting the top PCB to Afterburner adapter:](#markdown-1)
 Mounting the top PCB to Afterburner adapter:
 - 2x M2x10mm BHCS self taping 
 
