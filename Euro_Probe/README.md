@@ -8,7 +8,7 @@ Changed are the magnets to 8mm South and North pole.
 All STL's have correct print orientation and no need for supports. 
 Trident_8mm_ProbeDock.stl needs supports, will change it later and add build in support.
 
-## Mounting the top PCB to Afterburner adapter:
+### Mounting the top PCB to Afterburner adapter:
 - 2x M2x10mm BHCS self taping 
 
 or
@@ -22,13 +22,13 @@ or
 ![PIC](Images/PIC_6.png)
 
 
-## Installing magnets:
+### Installing magnets:
 - 4x M2x5mm FHCS 
 - 4x M2 nuts, you can also just screw direct in to the PCB. There is enough friction to hold it secure as PCS is glass fiber.
 
 ![PIC](Images/PIC_7.png)
 
-Added dock for the Klicky mount. Not tested yet.
+### Added dock for the Klicky mount. Not tested yet.
 For the mount STL in picture, you don't need the red spacer.
 With the other Klicky mounts, there is not enough clearance, therefore you need to use a 5 mm spacer (red in the pic)
 
