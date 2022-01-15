@@ -1,6 +1,9 @@
 # EuroProbe
 # I need to redesign the Omron adapters and move the probe mounting holes 1mm to make space for the JST connector, now you have to cut one of the JST walls.
 # if moved 1mm to the right, the switch button won't be centered anymore, not a problem but still. You will have two versions if you don't want to cut the JST wall
+
+![PIC](Images/PIC_12.png)
+
 # It is irrelevant for DuPont connector.
 
 This is the Euclid Probe moded for EU as the original magnets and hardware are non standard and not obtainable in EU, just in US.
