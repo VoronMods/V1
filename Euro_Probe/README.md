@@ -30,7 +30,7 @@ or
 
 ### Added dock for the Klicky mount. Not tested yet.
 For the mount STL in picture, you don't need the red spacer.
-With the other Klicky mounts, there is not enough clearance, therefore you need to use a 5 mm spacer (red in the pic)
+With the other Klicky mounts, there is not enough clearance, therefore you need to use a 5 mm spacer (red in the pic), or 3 mm spacer for the side mount.
 
 To install the dock you will need:
 
@@ -38,7 +38,11 @@ To install the dock you will need:
 
 - or
  
-- 2x M3x12mm if you use the 5mm spacer
+- 2x M3x12mm if you use the 5 mm spacer
+
+- or
+ 
+- 2x M3x10mm if you use the 3 mm spacer
 
 Klicky repo:
 https://github.com/jlas1/Klicky-Probe
