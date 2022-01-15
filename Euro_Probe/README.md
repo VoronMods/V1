@@ -4,7 +4,6 @@ This is the Euclid Probe moded for EU as the original magnets and hardware are n
 
 Changed are the magnets to 8mm South and North pole.
 
-#real-cool-heading
 
 All STL's have correct print orientation and no need for supports. 
 Trident_8mm_ProbeDock.stl needs supports, will change it later and add build in support.
