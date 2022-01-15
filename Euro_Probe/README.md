@@ -1,4 +1,10 @@
 # EuroProbe
+
+## Crossover between Euclid and Klicky, but not sure if I will go on with it and adopt Euclid PCB instead.
+To some degree, compatible with both mounting and dock systems.
+
+![PIC](Images/PIC_13.png)
+
 # I need to redesign the Omron adapters and move the probe mounting holes 1mm to make space for the JST connector, now you have to cut one of the JST walls.
 # if moved 1mm to the right, the switch button won't be centered anymore, not a problem but still. You will have two versions if you don't want to cut the JST wall
 # It is irrelevant for DuPont connector.
